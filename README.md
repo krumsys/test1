@@ -1,3 +1,3 @@
 # test1
-test is my forst try with the GitHub
+test is my first try with the GitHub
 
